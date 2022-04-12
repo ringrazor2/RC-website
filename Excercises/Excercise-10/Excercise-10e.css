@@ -1,0 +1,134 @@
+.div1 {
+  width: 200px;
+  border: none;
+  box-shadow: 0 0 5px grey;
+  padding-bottom: 10px;
+  display: inline-block;
+
+
+}
+.cat-img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  object-fit: cover;
+ 
+}
+.name-text {
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+.mutal-friends {
+  color: grey;
+  margin-top: 4px;
+  font-size: 14px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+.friend-button {
+  background-color: rgb(43, 125, 207);
+  border: none;
+  color: rgba(247, 234, 234, 0.897);
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 8px;
+  border-radius: 4px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+.div2 {
+  width: 200px;
+  border: none;
+  box-shadow: 0 0 5px grey;
+  padding-bottom: 10px;
+  display: inline-block;
+  margin-left: 10px;
+
+
+}
+.arlo-img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  object-fit: cover;
+ 
+}
+.name-text2 {
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+.mutal-friends2 {
+  color: grey;
+  margin-top: 4px;
+  font-size: 14px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+.friend-button2 {
+  background-color: rgb(43, 125, 207);
+  border: none;
+  color: rgba(247, 234, 234, 0.897);
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 8px;
+  border-radius: 4px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+.div3 {
+  width: 200px;
+  border: none;
+  box-shadow: 0 0 5px grey;
+  padding-bottom: 10px;
+  display: inline-block;
+  margin-left: 10px;
+
+
+}
+.coco-img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  object-fit: cover;
+ 
+}
+.name-text3 {
+  font-weight: bold;
+  font-size: 15px;
+  margin-top: 8px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+.mutal-friends3 {
+  color: grey;
+  margin-top: 4px;
+  font-size: 14px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+.friend-button3 {
+  background-color: rgb(43, 125, 207);
+  border: none;
+  color: rgba(247, 234, 234, 0.897);
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 8px;
+  border-radius: 4px;
+  margin-left: 8px;
+  cursor: pointer;
+}

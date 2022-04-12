@@ -1,0 +1,49 @@
+.ride-text {
+  font-size: 50px;
+  font-weight: normal;
+  margin-top: 5px;
+  margin-bottom: 17px;
+}
+.pickup-search {
+  display: block;
+  width: 400px;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgba(236, 234, 234, 0.568);
+  color: grey;
+  margin-bottom: 7px;
+  border-style: none;
+}
+.destination-search {
+  display: block;
+  width: 400px;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgba(236, 234, 234, 0.568);
+  color: grey;
+  border-style: none;
+  margin-bottom: 30px;
+}
+.request-button {
+  background-color: black;
+  color: white;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 120px;
+  border: none;
+  margin-right: 22px;
+  cursor: pointer;
+}
+.schedule-button {
+  color: black;
+  font-size: 14px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  width: 150px;
+  cursor: pointer;
+
+}

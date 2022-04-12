@@ -1,0 +1,12 @@
+.profile-pic-div {
+  position: relative;
+}
+.author-text {
+  font-family: Roboto, Arial;
+  font-size: 10px;
+}
+.author-tooltip {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
